@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/acomagu/hackmd-go"
+	"github.com/acomagu/techbook-hackmdfs/go-hackmd"
 	"github.com/graarh/golang-socketio/transport"
 )
 

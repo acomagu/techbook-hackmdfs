@@ -10,7 +10,7 @@ import (
 
 	"bazil.org/fuse"
 	"bazil.org/fuse/fs"
-	"github.com/acomagu/hackmd-go"
+	"github.com/acomagu/techbook-hackmdfs/go-hackmd"
 	"github.com/gregjones/httpcache"
 )
 
